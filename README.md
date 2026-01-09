@@ -1,5 +1,7 @@
 To build in Codespaces:
 
+use `build-script.sh` or type this in the terminal:
+
 `sudo apt update && sudo apt install gcc-avr avr-libc && make`
 
 
